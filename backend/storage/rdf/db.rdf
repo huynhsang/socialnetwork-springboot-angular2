@@ -1,0 +1,213 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <foaf:Person rdf:about="http://socialnetwork.org/1">
+    <foaf:phone>0935162625</foaf:phone>
+    <foaf:based_near>Da Nang, Viet Nam</foaf:based_near>
+    <foaf:img>http://localhost:8080/getImage/avatar_default.jpg</foaf:img>
+    <foaf:birthday>1995-11-12 00:00:00.0</foaf:birthday>
+    <foaf:family_name>Admin</foaf:family_name>
+    <foaf:givenname>Admin</foaf:givenname>
+    <foaf:accountName>admin@admin.com</foaf:accountName>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://socialnetwork.org/8">
+    <foaf:based_near>Da nang, Viet nam</foaf:based_near>
+    <foaf:knows>
+      <foaf:Person rdf:about="http://socialnetwork.org/6">
+        <foaf:phone>01234567890</foaf:phone>
+        <foaf:knows>
+          <foaf:Person rdf:about="http://socialnetwork.org/4">
+            <foaf:knows>
+              <foaf:Person rdf:about="http://socialnetwork.org/10">
+                <foaf:knows rdf:resource="http://socialnetwork.org/4"/>
+                <foaf:knows>
+                  <foaf:Person rdf:about="http://socialnetwork.org/14">
+                    <foaf:knows>
+                      <foaf:Person rdf:about="http://socialnetwork.org/2">
+                        <foaf:birthday>1995-10-21 00:00:00.0</foaf:birthday>
+                        <foaf:knows>
+                          <foaf:Person rdf:about="http://socialnetwork.org/11">
+                            <foaf:birthday>1995-06-06 00:00:00.0</foaf:birthday>
+                            <foaf:accountName>ngan@gmail.com</foaf:accountName>
+                            <foaf:knows rdf:resource="http://socialnetwork.org/2"/>
+                            <foaf:knows rdf:resource="http://socialnetwork.org/6"/>
+                            <foaf:img>http://localhost:8080/getImage/ngan.jpg</foaf:img>
+                            <foaf:knows rdf:resource="http://socialnetwork.org/8"/>
+                            <foaf:based_near>Hue, Viet Nam</foaf:based_near>
+                            <foaf:knows>
+                              <foaf:Person rdf:about="http://socialnetwork.org/13">
+                                <foaf:knows rdf:resource="http://socialnetwork.org/11"/>
+                                <foaf:phone>0999222321</foaf:phone>
+                                <foaf:knows>
+                                  <foaf:Person rdf:about="http://socialnetwork.org/9">
+                                    <foaf:knows>
+                                      <foaf:Person rdf:about="http://socialnetwork.org/3">
+                                        <foaf:based_near>Da Nang, Viet Nam</foaf:based_near>
+                                        <foaf:knows rdf:resource="http://socialnetwork.org/13"/>
+                                        <foaf:accountName>sanght@gmail.com</foaf:accountName>
+                                        <foaf:knows>
+                                          <foaf:Person rdf:about="http://socialnetwork.org/15">
+                                            <foaf:knows rdf:resource="http://socialnetwork.org/13"/>
+                                            <foaf:family_name
+                                            >Pham</foaf:family_name>
+                                            <foaf:knows rdf:resource="http://socialnetwork.org/9"/>
+                                            <foaf:givenname>My</foaf:givenname>
+                                            <foaf:knows rdf:resource="http://socialnetwork.org/11"/>
+                                            <foaf:birthday>1996-02-03 00:00:00.0</foaf:birthday>
+                                            <foaf:phone>0946376234</foaf:phone>
+                                            <foaf:img>http://localhost:8080/getImage/my.jpg</foaf:img>
+                                            <foaf:knows>
+                                              <foaf:Person rdf:about="http://socialnetwork.org/5">
+                                                <foaf:knows rdf:resource="http://socialnetwork.org/4"/>
+                                                <foaf:knows rdf:resource="http://socialnetwork.org/13"/>
+                                                <foaf:knows rdf:resource="http://socialnetwork.org/15"/>
+                                                <foaf:phone>0935126632</foaf:phone>
+                                                <foaf:family_name
+                                                >Le</foaf:family_name>
+                                                <foaf:knows rdf:resource="http://socialnetwork.org/9"/>
+                                                <foaf:knows rdf:resource="http://socialnetwork.org/6"/>
+                                                <foaf:birthday
+                                                >1995-03-03 00:00:00.0</foaf:birthday>
+                                                <foaf:knows rdf:resource="http://socialnetwork.org/8"/>
+                                                <foaf:knows rdf:resource="http://socialnetwork.org/3"/>
+                                                <foaf:accountName
+                                                >hien@gmail.com</foaf:accountName>
+                                                <foaf:givenname
+                                                >Hien</foaf:givenname>
+                                                <foaf:img>http://localhost:8080/getImage/1493282404695.jpg</foaf:img>
+                                                <foaf:based_near
+                                                >Da nang, Viet nam</foaf:based_near>
+                                                <foaf:knows rdf:resource="http://socialnetwork.org/2"/>
+                                              </foaf:Person>
+                                            </foaf:knows>
+                                            <foaf:knows rdf:resource="http://socialnetwork.org/3"/>
+                                            <foaf:accountName
+                                            >my@gmail.com</foaf:accountName>
+                                            <foaf:based_near>Quang Tri, Viet Nam</foaf:based_near>
+                                          </foaf:Person>
+                                        </foaf:knows>
+                                        <foaf:birthday>1995-12-11 00:00:00.0</foaf:birthday>
+                                        <foaf:knows rdf:resource="http://socialnetwork.org/10"/>
+                                        <foaf:knows rdf:resource="http://socialnetwork.org/9"/>
+                                        <foaf:knows rdf:resource="http://socialnetwork.org/8"/>
+                                        <foaf:img>http://localhost:8080/getImage/1493138727342.jpg</foaf:img>
+                                        <foaf:phone>0935162625</foaf:phone>
+                                        <foaf:givenname>Sang</foaf:givenname>
+                                        <foaf:knows rdf:resource="http://socialnetwork.org/5"/>
+                                        <foaf:knows rdf:resource="http://socialnetwork.org/2"/>
+                                        <foaf:family_name>Huynh</foaf:family_name>
+                                      </foaf:Person>
+                                    </foaf:knows>
+                                    <foaf:knows rdf:resource="http://socialnetwork.org/2"/>
+                                    <foaf:knows rdf:resource="http://socialnetwork.org/8"/>
+                                    <foaf:knows rdf:resource="http://socialnetwork.org/10"/>
+                                    <foaf:knows rdf:resource="http://socialnetwork.org/15"/>
+                                    <foaf:based_near>Da nang, Viet nam</foaf:based_near>
+                                    <foaf:accountName>khanh@gmail.com</foaf:accountName>
+                                    <foaf:knows rdf:resource="http://socialnetwork.org/13"/>
+                                    <foaf:birthday>1995-02-02 00:00:00.0</foaf:birthday>
+                                    <foaf:img>http://localhost:8080/getImage/khanh.jpg</foaf:img>
+                                    <foaf:givenname>Khanh</foaf:givenname>
+                                    <foaf:knows rdf:resource="http://socialnetwork.org/5"/>
+                                    <foaf:family_name>Truong</foaf:family_name>
+                                    <foaf:phone>0998764731</foaf:phone>
+                                  </foaf:Person>
+                                </foaf:knows>
+                                <foaf:birthday>1995-07-07 00:00:00.0</foaf:birthday>
+                                <foaf:img>http://localhost:8080/getImage/tram.jpg</foaf:img>
+                                <foaf:knows rdf:resource="http://socialnetwork.org/3"/>
+                                <foaf:accountName>tram@gmail.com</foaf:accountName>
+                                <foaf:knows rdf:resource="http://socialnetwork.org/15"/>
+                                <foaf:based_near>Quang Nam, Viet Nam</foaf:based_near>
+                                <foaf:givenname>Tram</foaf:givenname>
+                                <foaf:knows rdf:resource="http://socialnetwork.org/5"/>
+                                <foaf:family_name>Nguyen</foaf:family_name>
+                              </foaf:Person>
+                            </foaf:knows>
+                            <foaf:knows rdf:resource="http://socialnetwork.org/15"/>
+                            <foaf:knows rdf:resource="http://socialnetwork.org/10"/>
+                            <foaf:knows rdf:resource="http://socialnetwork.org/4"/>
+                            <foaf:phone>0988678456</foaf:phone>
+                            <foaf:family_name>Tran</foaf:family_name>
+                            <foaf:givenname>Ngan</foaf:givenname>
+                          </foaf:Person>
+                        </foaf:knows>
+                        <foaf:phone>0934876654</foaf:phone>
+                        <foaf:knows rdf:resource="http://socialnetwork.org/9"/>
+                        <foaf:based_near>Da Nang, Viet Nam</foaf:based_near>
+                        <foaf:family_name>Le</foaf:family_name>
+                        <foaf:knows rdf:resource="http://socialnetwork.org/3"/>
+                        <foaf:givenname>Gumiho</foaf:givenname>
+                        <foaf:img>http://localhost:8080/getImage/avatar_default.jpg</foaf:img>
+                        <foaf:knows rdf:resource="http://socialnetwork.org/14"/>
+                        <foaf:accountName>user@user.com</foaf:accountName>
+                        <foaf:knows rdf:resource="http://socialnetwork.org/5"/>
+                      </foaf:Person>
+                    </foaf:knows>
+                    <foaf:phone>0955456234</foaf:phone>
+                    <foaf:img>http://localhost:8080/getImage/thao.jpg</foaf:img>
+                    <foaf:knows rdf:resource="http://socialnetwork.org/4"/>
+                    <foaf:birthday>1996-03-05 00:00:00.0</foaf:birthday>
+                    <foaf:knows rdf:resource="http://socialnetwork.org/6"/>
+                    <foaf:knows rdf:resource="http://socialnetwork.org/10"/>
+                    <foaf:knows rdf:resource="http://socialnetwork.org/8"/>
+                    <foaf:family_name>Le</foaf:family_name>
+                    <foaf:accountName>thao@gmail.com</foaf:accountName>
+                    <foaf:givenname>Thao</foaf:givenname>
+                    <foaf:based_near>Hue, Viet Nam</foaf:based_near>
+                  </foaf:Person>
+                </foaf:knows>
+                <foaf:based_near>Da nang, Viet nam</foaf:based_near>
+                <foaf:accountName>hai@gmail.com</foaf:accountName>
+                <foaf:img>http://localhost:8080/getImage/hai.jpg</foaf:img>
+                <foaf:knows rdf:resource="http://socialnetwork.org/9"/>
+                <foaf:knows rdf:resource="http://socialnetwork.org/11"/>
+                <foaf:knows rdf:resource="http://socialnetwork.org/3"/>
+                <foaf:phone>0923453434</foaf:phone>
+                <foaf:givenname>Hai</foaf:givenname>
+                <foaf:knows rdf:resource="http://socialnetwork.org/6"/>
+                <foaf:knows rdf:resource="http://socialnetwork.org/8"/>
+                <foaf:birthday>1995-04-04 00:00:00.0</foaf:birthday>
+                <foaf:family_name>Tran</foaf:family_name>
+              </foaf:Person>
+            </foaf:knows>
+            <foaf:phone>01263752044</foaf:phone>
+            <foaf:knows rdf:resource="http://socialnetwork.org/6"/>
+            <foaf:knows rdf:resource="http://socialnetwork.org/14"/>
+            <foaf:knows rdf:resource="http://socialnetwork.org/11"/>
+            <foaf:givenname>Quang</foaf:givenname>
+            <foaf:img>http://localhost:8080/getImage/quang.jpg</foaf:img>
+            <foaf:birthday>1995-02-28 00:00:00.0</foaf:birthday>
+            <foaf:knows rdf:resource="http://socialnetwork.org/5"/>
+            <foaf:accountName>quangtd@gmail.com</foaf:accountName>
+            <foaf:family_name>Thai</foaf:family_name>
+            <foaf:based_near>Da Nang, Viet Nam</foaf:based_near>
+          </foaf:Person>
+        </foaf:knows>
+        <foaf:img>http://localhost:8080/getImage/nam.jpg</foaf:img>
+        <foaf:givenname>Nam</foaf:givenname>
+        <foaf:knows rdf:resource="http://socialnetwork.org/10"/>
+        <foaf:knows rdf:resource="http://socialnetwork.org/11"/>
+        <foaf:family_name>Nguyen</foaf:family_name>
+        <foaf:based_near>Quang Nam, Viet Nam</foaf:based_near>
+        <foaf:knows rdf:resource="http://socialnetwork.org/14"/>
+        <foaf:knows rdf:resource="http://socialnetwork.org/8"/>
+        <foaf:birthday>1995-12-12 00:00:00.0</foaf:birthday>
+        <foaf:accountName>namnh@gmail.com</foaf:accountName>
+        <foaf:knows rdf:resource="http://socialnetwork.org/5"/>
+      </foaf:Person>
+    </foaf:knows>
+    <foaf:knows rdf:resource="http://socialnetwork.org/14"/>
+    <foaf:givenname>Dan</foaf:givenname>
+    <foaf:knows rdf:resource="http://socialnetwork.org/5"/>
+    <foaf:knows rdf:resource="http://socialnetwork.org/11"/>
+    <foaf:birthday>1995-08-08 00:00:00.0</foaf:birthday>
+    <foaf:knows rdf:resource="http://socialnetwork.org/3"/>
+    <foaf:family_name>Pham</foaf:family_name>
+    <foaf:phone>0915254243</foaf:phone>
+    <foaf:img>http://localhost:8080/getImage/dan.jpg</foaf:img>
+    <foaf:accountName>danpl@gmail.com</foaf:accountName>
+    <foaf:knows rdf:resource="http://socialnetwork.org/10"/>
+    <foaf:knows rdf:resource="http://socialnetwork.org/9"/>
+  </foaf:Person>
+</rdf:RDF>

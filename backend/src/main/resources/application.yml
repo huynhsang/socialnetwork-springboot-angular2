@@ -1,0 +1,6 @@
+variable.security.jwt:
+  header: Authorization
+  tokenExpirationTime: 15 # Number of minutes
+  refreshTokenExpTime: 60 # Minutes
+  tokenIssuer: sanghuynh
+  tokenSigningKey: socialnetwork
